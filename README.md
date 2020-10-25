@@ -1,2 +1,6 @@
 # tesl
-This project was created for help people with eyes problems like, lazy eye stereoscopic vision. 
+Training Eye(Lazy Eye & Stereoscopic Vision)
+
+This project was created to help people with vision problems like, lazy eye,stereoscopic vision. 
+
+This project is focuses to create a cross platform app which allow people to work on their problem with vision. 
